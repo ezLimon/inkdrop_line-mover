@@ -1,0 +1,6 @@
+{
+  ".CodeMirror textarea": {
+    "alt-down": "line-mover:down",
+    "alt-up": "line-mover:up"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Move up",
+        "command": "line-mover:up"
+      },
+      {
+        "label": "Move down",
+        "command": "line-mover:down"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Line Mover",
+          "submenu": [
+            {
+              "label": "Move up",
+              "command": "line-mover:up"
+            },
+            {
+              "label": "Move down",
+              "command": "line-mover:down"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
