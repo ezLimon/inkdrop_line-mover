@@ -10,6 +10,6 @@ ipm install line-mover
 ```
 
 ### Move your selection/current line
-Once the lines selected (if no selection, the current line will be moved), press `alt+down` or `alt+up`; `option+up` and `option+up` on MacOS.
+Once the lines selected (if no selection, the current line will be moved), press `Alt/Option` + `Up/Down` arrow.
 
-![Alt Text](https://github.com/OnurKam/inkdrop_line-mover/line-mover_demo.gif)
+![Alt Text](https://github.com/OnurKam/inkdrop_line-mover/blob/main/line-mover_demo.gif)
