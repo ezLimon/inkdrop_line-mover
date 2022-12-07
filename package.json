@@ -4,7 +4,10 @@
   "version": "2.0.0",
   "description": "Swap the current line or selection with the line below/above via shorcuts.",
   "keywords": [],
-  "repository": "https://github.com/OnurKam/inkdrop_line-mover",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnurKam/inkdrop_line-mover.git"
+  },
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
