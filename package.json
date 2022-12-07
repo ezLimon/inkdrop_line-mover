@@ -1,12 +1,12 @@
 {
   "name": "line-mover",
   "main": "./lib/index",
-  "version": "2.1.0",
+  "version": "1.0.0",
   "description": "Swap the current line or selection with the line below/above via shorcuts.",
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OnurKam/inkdrop_line-mover.git"
+    "url": "git@github.com/OnurKam/inkdrop_line-mover.git"
   },
   "license": "MIT",
   "engines": {
