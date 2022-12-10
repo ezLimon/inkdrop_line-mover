@@ -1,7 +1,7 @@
 {
   "name": "line-mover",
   "main": "./lib/index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Swap the current line or selection with the line below/above via shorcuts.",
   "keywords": [],
   "repository": {
